@@ -2,6 +2,8 @@
 
 Organisation-wide configuration and brand assets for the [Eskube-Srl](https://github.com/Eskube-Srl) GitHub organisation.
 
+> This is a special GitHub repository. GitHub automatically uses `profile/README.md` as the public-facing page at [github.com/Eskube-Srl](https://github.com/Eskube-Srl). The `assets/` folder is the canonical home for all Eskube brand files — reference them from any repo via raw URL rather than copying them locally.
+
 ## Contents
 
 | Path | Purpose |
