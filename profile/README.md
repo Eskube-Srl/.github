@@ -14,5 +14,5 @@ All projects follow the **[Eskube AI Development Standard](https://github.com/Es
 
 → **[Create from template](https://github.com/new?template_name=eskube-project-template&template_owner=Eskube-Srl&owner=Eskube-Srl)**
 
-**Developers:** follow the [Getting Started guide](https://github.com/Eskube-Srl/eskube-project-template/blob/main/eskube/getting-started.md)  
+**Developers:** follow the [Getting Started guide](https://github.com/Eskube-Srl/eskube-project-template/blob/main/eskube/ai-assisted-full-setup.md)  
 **Non-developers:** open the project folder and double-click `start.bat` — the assistant will guide you from there
